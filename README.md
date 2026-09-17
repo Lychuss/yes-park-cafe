@@ -20,5 +20,5 @@ Please click the links below to access the frontend and backend source code inst
 
 If you want to spin up both projects locally at the same time: 
 
-1. **Clone the frontend:** git clone https://github.com/Lychuss/yes-park-cafe-frontend
-2. **Clone the backend:** git clone https://github.com/Lychuss/yes-park-cafe-backend
+1. **Clone the frontend:** git clone https://github.com/Lychuss/yes-park-cafe-frontend.git
+2. **Clone the backend:** git clone https://github.com/Lychuss/yes-park-cafe-backend.git
